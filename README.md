@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+🔭 Currently working on neural networks ✨◠‿◠✨ Hope to learn a lot from all of you!
+
+
 <!--
 **FudgeCode/FudgeCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
